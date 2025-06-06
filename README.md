@@ -1,2 +1,2 @@
 # HR-analytics-Job-Prediction
-Lets practice your machine learning skills! From exploratory data analysis all the way up to creating logistic regression models, this repository will help you tune (no pun intended) your ML skills
+This repository contains a dataset and a step-by-step tutorial to take a novice to an advanced data analyst/researcher through exploratory data analysis, machine learning building and tuning, feature engineering, and business insight generation
