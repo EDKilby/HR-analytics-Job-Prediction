@@ -44,7 +44,7 @@ from sklearn.tree import plot_tree
 
 
 # import dataset from Github "HR Dataset" branch
-file_path = r"C:\Users\evank\OneDrive - University of North Florida\GitHub\HR_comma_sep.csv"
+file_path = r"_______________________" #fill in the quotation marks with the actual file address
 df = pd.read_csv(file_path)
 df.head()
 
